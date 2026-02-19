@@ -1,0 +1,12 @@
+*   [33m9ab87df[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #1 from JayeshTatipamul/feature-clean-history
+[31m|[m[32m\[m  
+[31m|[m * [33m4ac95ce[m[33m ([m[1;31morigin/feature-clean-history[m[33m, [m[1;32mfeature-clean-history[m[33m)[m Added professional PR workflow message
+[31m|[m[31m/[m  
+*   [33ma00408d[m Resolved merge conflict
+[33m|[m[34m\[m  
+[33m|[m * [33me42ee2c[m[33m ([m[1;32mfeature-modify-message[m[33m)[m Modified learning message in feature branch
+* [34m|[m [33meea9290[m Modified learning message in master
+[34m|[m[34m/[m  
+* [33m5c735a7[m[33m ([m[1;32mfeature-salary-analysis[m[33m)[m Added salary analysis feature
+* [33mbbfea1c[m Added learning message
+* [33mc67f2d7[m Initial commit - added project files

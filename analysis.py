@@ -11,3 +11,5 @@ print("Feature branch: Salary analysis module")
 print("Testing professional PR workflow")
 
 print("Main branch update before rebase")
+print("Rebase workflow demonstration")
+
